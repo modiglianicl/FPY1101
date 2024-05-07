@@ -1,6 +1,6 @@
 palabras = ["Hola","holis","arbol",
             "murcielago","panda","perro",
-            "olores","negro","asdsadsadsa",
+            "olores","HOLIWIS","asdsadsadsa",
             "murciegalookgoskgofskgofskodkfokfoakf",
             "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]
 cantidad_vocales = 0
