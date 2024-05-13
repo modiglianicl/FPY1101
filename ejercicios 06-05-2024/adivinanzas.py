@@ -5,7 +5,14 @@ print(f"El numero es {numero_pc}")
 guess = -1
 
 while numero_pc != guess:
-    guess = int(input("Adivina un numero entre 1 y 100 : "))
+    # Try Except
+    try:
+        guess = int(input("Adivina un numero entre 1 y 100 : "))
+    except Exception as e:
+        print(f"Algo ocurrió : {e.with_traceback}")
+    # Fin Try Except
+    
+    # Probamos condiciones   
     if guess == numero_pc:
         print("Ganaste")
         break
