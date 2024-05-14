@@ -5,7 +5,10 @@ suma = 0
 
 # Pregunto n que no puede ser mayor al largo de la lsta
 while True:
-    sumar_n = int(input("Cuantos numeros quieres sumar"))
+    try:
+        sumar_n = int(input("Cuantos numeros quieres sumar"))
+    except Exception as e:
+        print(f"Algo ocurrio...{e.with_traceback}")
     if sumar_n > len(lista_numeros):
         print(f"No puede ser mayor a {len(lista_numeros)}")
         continue
