@@ -5,7 +5,7 @@ total_compras = 0
 inv_poleras = 0
 inv_pantalones = 0
 inv_chaqueta = 0
-while estado_programa == 0:
+while True:
     try:
         # Menu Principal
         opcion_menu = int(input(f"Favor selecciona una opción : \n1.- Solicitar comprar \n2.- Pagar \n3.- ver Total \n4.- Salir\n"))
