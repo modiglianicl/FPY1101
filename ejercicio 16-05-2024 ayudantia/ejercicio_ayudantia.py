@@ -1,5 +1,3 @@
-# Estado Programa
-estado_programa = 0
 # Total compras e inventarios
 total_compras = 0
 inv_poleras = 0
