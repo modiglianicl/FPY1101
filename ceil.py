@@ -11,4 +11,3 @@ else:
     print(f"No sobra {sobrante}")
 
 print(cantidad)
-print(len(str(total)))

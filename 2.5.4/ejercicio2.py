@@ -46,6 +46,8 @@ while True:
         elif opcionMenu == 5:
             print("Salir?")
             break
+        else:
+            print(f"Opción no valida, debe de ingresar un número entre 1 y 5!.")
          ## Termina Menu Principal
     except ValueError as e:
         print(f"Debe ingresar un número entre 1 y 5!")
