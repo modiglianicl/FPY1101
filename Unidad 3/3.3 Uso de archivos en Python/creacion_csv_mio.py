@@ -31,7 +31,7 @@ nombre_archivo = "usuarios.csv"
 
 print(os.getcwd())
 
-with open(f'{os.getcwd()}\{nombre_archivo}',"a") as csvfile:
+with open(f'{os.getcwd()}\\Unidad 3\\3.3 Uso de archivos en Python\\{nombre_archivo}',"w") as csvfile:
     # Creando objeto que escribe
     writer = csv.DictWriter(csvfile, fieldnames=columnas, lineterminator='\n')
     # Creando columnas
