@@ -1,0 +1,586 @@
+{
+    "usuarios": [
+        {
+            "nombre": "victor",
+            "edad": "20",
+            "mascotas": [
+                "perro",
+                "gato",
+                "loro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.5,
+                "presion": 100
+            }
+        },
+        {
+            "nombre": "luciano",
+            "edad": "24",
+            "mascotas": [
+                "leon",
+                "elefante",
+                "zorro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.15,
+                "presion": 80
+            }
+        },
+        {
+            "nombre": "felipe",
+            "edad": "32",
+            "mascotas": [
+                "raton",
+                "jabali",
+                "ornitorrinco"
+            ],
+            "perfil_salud": {
+                "sangre": "otaku",
+                "IMC": 0.5,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "cesar",
+            "edad": "29",
+            "mascotas": [
+                "oso",
+                "ballena",
+                "rana"
+            ],
+            "perfil_salud": {
+                "sangre": "otaku",
+                "IMC": 0.2,
+                "presion": 95
+            }
+        },
+        {
+            "nombre": "maria",
+            "edad": "22",
+            "mascotas": [
+                "gato",
+                "pez",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.25,
+                "presion": 110
+            }
+        },
+        {
+            "nombre": "juan",
+            "edad": "35",
+            "mascotas": [
+                "perro",
+                "tortuga"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.3,
+                "presion": 120
+            }
+        },
+        {
+            "nombre": "ana",
+            "edad": "28",
+            "mascotas": [
+                "conejo",
+                "serpiente"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.2,
+                "presion": 85
+            }
+        },
+        {
+            "nombre": "pablo",
+            "edad": "40",
+            "mascotas": [
+                "caballo",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.1,
+                "presion": 130
+            }
+        },
+        {
+            "nombre": "lucia",
+            "edad": "26",
+            "mascotas": [
+                "pajaro",
+                "perro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.05,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "andres",
+            "edad": "21",
+            "mascotas": [
+                "perro",
+                "loro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.3,
+                "presion": 105
+            }
+        },
+        {
+            "nombre": "sofia",
+            "edad": "30",
+            "mascotas": [
+                "gato",
+                "pez"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.2,
+                "presion": 115
+            }
+        },
+        {
+            "nombre": "martin",
+            "edad": "27",
+            "mascotas": [
+                "conejo",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.25,
+                "presion": 95
+            }
+        },
+        {
+            "nombre": "camila",
+            "edad": "22",
+            "mascotas": [
+                "serpiente",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.15,
+                "presion": 85
+            }
+        },
+        {
+            "nombre": "sebastian",
+            "edad": "33",
+            "mascotas": [
+                "perro",
+                "tortuga"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.1,
+                "presion": 120
+            }
+        },
+        {
+            "nombre": "valeria",
+            "edad": "25",
+            "mascotas": [
+                "gato",
+                "conejo"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.35,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "ricardo",
+            "edad": "29",
+            "mascotas": [
+                "pajaro",
+                "perro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.2,
+                "presion": 100
+            }
+        },
+        {
+            "nombre": "fernanda",
+            "edad": "24",
+            "mascotas": [
+                "pez",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.3,
+                "presion": 110
+            }
+        },
+        {
+            "nombre": "jose",
+            "edad": "34",
+            "mascotas": [
+                "serpiente",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.1,
+                "presion": 130
+            }
+        },
+        {
+            "nombre": "paula",
+            "edad": "23",
+            "mascotas": [
+                "conejo",
+                "pez"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.05,
+                "presion": 100
+            }
+        },
+        {
+            "nombre": "daniel",
+            "edad": "31",
+            "mascotas": [
+                "perro",
+                "tortuga"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.25,
+                "presion": 115
+            }
+        },
+        {
+            "nombre": "catalina",
+            "edad": "28",
+            "mascotas": [
+                "gato",
+                "pajaro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.3,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "francisco",
+            "edad": "26",
+            "mascotas": [
+                "pez",
+                "conejo"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.15,
+                "presion": 105
+            }
+        },
+        {
+            "nombre": "carolina",
+            "edad": "32",
+            "mascotas": [
+                "perro",
+                "serpiente"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.05,
+                "presion": 125
+            }
+        },
+        {
+            "nombre": "raul",
+            "edad": "27",
+            "mascotas": [
+                "gato",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.3,
+                "presion": 80
+            }
+        },
+        {
+            "nombre": "laura",
+            "edad": "20",
+            "mascotas": [
+                "perro",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.1,
+                "presion": 110
+            }
+        },
+        {
+            "nombre": "diego",
+            "edad": "24",
+            "mascotas": [
+                "pez",
+                "tortuga"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.2,
+                "presion": 115
+            }
+        },
+        {
+            "nombre": "andrea",
+            "edad": "22",
+            "mascotas": [
+                "conejo",
+                "serpiente"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.3,
+                "presion": 95
+            }
+        },
+        {
+            "nombre": "alejandro",
+            "edad": "29",
+            "mascotas": [
+                "gato",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.15,
+                "presion": 85
+            }
+        },
+        {
+            "nombre": "marta",
+            "edad": "32",
+            "mascotas": [
+                "perro",
+                "pajaro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.25,
+                "presion": 120
+            }
+        },
+        {
+            "nombre": "javier",
+            "edad": "27",
+            "mascotas": [
+                "pez",
+                "conejo"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.1,
+                "presion": 105
+            }
+        },
+        {
+            "nombre": "isabel",
+            "edad": "30",
+            "mascotas": [
+                "serpiente",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.3,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "oscar",
+            "edad": "28",
+            "mascotas": [
+                "perro",
+                "tortuga"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.2,
+                "presion": 100
+            }
+        },
+        {
+            "nombre": "elena",
+            "edad": "26",
+            "mascotas": [
+                "pajaro",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.1,
+                "presion": 125
+            }
+        },
+        {
+            "nombre": "carlos",
+            "edad": "31",
+            "mascotas": [
+                "gato",
+                "pez"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.25,
+                "presion": 80
+            }
+        },
+        {
+            "nombre": "silvia",
+            "edad": "25",
+            "mascotas": [
+                "conejo",
+                "perro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.15,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "victor",
+            "edad": "21",
+            "mascotas": [
+                "serpiente",
+                "pajaro"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.3,
+                "presion": 110
+            }
+        },
+        {
+            "nombre": "natalia",
+            "edad": "23",
+            "mascotas": [
+                "gato",
+                "pez"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.2,
+                "presion": 105
+            }
+        },
+        {
+            "nombre": "sergio",
+            "edad": "32",
+            "mascotas": [
+                "perro",
+                "conejo"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.1,
+                "presion": 115
+            }
+        },
+        {
+            "nombre": "raquel",
+            "edad": "24",
+            "mascotas": [
+                "pez",
+                "tortuga"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.25,
+                "presion": 100
+            }
+        },
+        {
+            "nombre": "fernando",
+            "edad": "27",
+            "mascotas": [
+                "serpiente",
+                "hamster"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.15,
+                "presion": 85
+            }
+        },
+        {
+            "nombre": "veronica",
+            "edad": "30",
+            "mascotas": [
+                "perro",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.2,
+                "presion": 125
+            }
+        },
+        {
+            "nombre": "luis",
+            "edad": "22",
+            "mascotas": [
+                "conejo",
+                "pez"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.1,
+                "presion": 120
+            }
+        },
+        {
+            "nombre": "patricia",
+            "edad": "29",
+            "mascotas": [
+                "pajaro",
+                "gato"
+            ],
+            "perfil_salud": {
+                "sangre": "rh positivo",
+                "IMC": 0.15,
+                "presion": 90
+            }
+        },
+        {
+            "nombre": "alfonso",
+            "edad": "26",
+            "mascotas": [
+                "perro",
+                "serpiente"
+            ],
+            "perfil_salud": {
+                "sangre": "rh negativo",
+                "IMC": 0.3,
+                "presion": 110
+            }
+        }
+        
+    ],
+    "meta_datos": {
+        "id": "12345",
+        "fecha": "0234"
+    }
+}
