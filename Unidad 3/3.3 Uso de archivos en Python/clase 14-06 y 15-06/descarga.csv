@@ -1,0 +1,60 @@
+nombre,asignatura,promedio,asistencia,estado
+Juan,Matemáticas,5.766666666666667,75,Aprobado
+María,Ciencias,5.166666666666667,67,Aprobado
+Pedro,Inglés,6.433333333333334,80,Aprobado
+Ana,Historia,4.566666666666666,55,Reprobado
+Luis,Geografía,6.066666666666666,72,Aprobado
+Sofía,Arte,5.433333333333334,85,Aprobado
+Carlos,Biología,6.266666666666667,62,Aprobado
+Carlos,Biología,3.266666666666667,62,Reprobado
+Carlos,Biología,4.266666666666667,62,Aprobado
+Laura,Química,6.433333333333334,78,Aprobado
+Andrés,Física,4.566666666666666,50,Reprobado
+Valeria,Educación Física,6.066666666666666,69,Aprobado
+Javier,Literatura,5.433333333333334,77,Aprobado
+Isabel,Economía,6.266666666666667,61,Aprobado
+Daniel,Informática,5.166666666666667,84,Aprobado
+Marta,Sociología,6.433333333333334,56,Reprobado
+Roberto,Psicología,4.566666666666666,79,Aprobado
+Lucía,Dibujo Técnico,6.066666666666666,63,Aprobado
+Gabriel,Música,5.433333333333334,71,Aprobado
+Alejandra,Religión,6.266666666666667,88,Aprobado
+Diego,Filosofía,4.566666666666666,58,Reprobado
+Carolina,Geometría,5.166666666666667,46,Reprobado
+Fernando,Programación,6.433333333333334,70,Aprobado
+Camila,Inglés Avanzado,5.433333333333334,83,Aprobado
+Mateo,Matemáticas Aplicadas,6.266666666666667,75,Aprobado
+Sara,Ciencias Ambientales,5.166666666666667,54,Reprobado
+Nicolás,Historia del Arte,6.433333333333334,66,Aprobado
+Valentina,Geografía Humana,4.566666666666666,90,Aprobado
+Juanita,Arquitectura,6.066666666666666,59,Reprobado
+Antonio,Escultura,5.433333333333334,74,Aprobado
+Adriana,Pintura,6.266666666666667,57,Reprobado
+Ricardo,Danza,4.566666666666666,86,Aprobado
+Paula,Teatro,6.066666666666666,68,Aprobado
+Martín,Cine,5.433333333333334,52,Reprobado
+Victoria,Televisión,6.266666666666667,73,Aprobado
+Manuel,Radio,4.566666666666666,87,Aprobado
+Julia,Periodismo,6.433333333333334,60,Aprobado
+Hugo,Publicidad,5.433333333333334,81,Aprobado
+Ana María,Marketing,6.266666666666667,64,Aprobado
+Ernesto,Estadística,4.566666666666666,89,Aprobado
+Bárbara,Finanzas,6.066666666666666,65,Aprobado
+Arturo,Contabilidad,5.433333333333334,76,Aprobado
+Lucas,Economía Internacional,6.266666666666667,53,Reprobado
+Renata,Relaciones Internacionales,4.566666666666666,72,Aprobado
+Ismael,Cooperación Internacional,6.066666666666666,82,Aprobado
+Alicia,Derecho Internacional,5.433333333333334,47,Reprobado
+Gonzalo,Derechos Humanos,6.266666666666667,79,Aprobado
+Lorena,Arbitraje,4.566666666666666,55,Reprobado
+Agustín,Medicina,6.433333333333334,68,Aprobado
+Julieta,Pediatría,5.433333333333334,71,Aprobado
+Camilo,Cardiología,6.266666666666667,50,Reprobado
+Valeria,Neurología,4.566666666666666,87,Aprobado
+Samuel,Geriatría,6.066666666666666,66,Aprobado
+Montserrat,Psiquiatría,5.433333333333334,83,Aprobado
+Diego,Farmacología,6.266666666666667,57,Reprobado
+Sofía,Biomedicina,4.566666666666666,80,Aprobado
+Esteban,Bioquímica,6.433333333333334,74,Aprobado
+Victoria,Biotecnología,5.433333333333334,69,Aprobado
+Roberto,Ingeniería Genética,6.266666666666667,56,Reprobado
