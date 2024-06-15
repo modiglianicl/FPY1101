@@ -17,7 +17,7 @@ for fila in lista_datos:
     if fila[0] == 'nombre': # Está es importante, la primera fila usa su primer elemento para detectar si son las columnas (es decir, texto)
         lista_descarga.append(fila)
     else: # Si no son las columnas aplicamos la logica que queriamos
-        promedio = (float(fila[3]) + float(fila[4]) + float(fila[5]))/3
+        promedio = round((float(fila[3]) + float(fila[4]) + float(fila[5]))/3,2)
         if promedio >= 4.0 and int(fila[6]) >= 60: # Apueba si el promedio es mayor o igual a 4.0 y la asistencia mayor o igual a 60
             estado = 'Aprobado'
         else: # Si no, reprueba
