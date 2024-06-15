@@ -12,7 +12,6 @@ with open('estudiantes.csv', 'r', newline='', encoding='utf-8') as archivo:
 
 suma = 0
 promedio_alto = 0
-promedios = []
 
 for dato in lista_biologia:
     promedio = (float(dato[3]) + float(dato[4]) + float(dato[5]))/3
