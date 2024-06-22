@@ -78,6 +78,7 @@ for i in promedio_alumno_asignatura:
                  mejores_promedios_asignaturas[j][asignaturas[j]]['mejor_nota'] = i['promedio_alumno']
                  mejores_promedios_asignaturas[j][asignaturas[j]]['rut_alumno'] = i['rut']
 
+# Creamos un JSON para ir probando como queda
 with open('mejoresnotasporasignatura.json','w',encoding='utf-8') as archivo:
     datos_1 = json.dump(mejores_promedios_asignaturas,archivo,ensure_ascii=False)
 
