@@ -1,0 +1,14 @@
+[
+    {
+        "nombre_producto": "Coca-Cola",
+        "precio": 1990,
+        "cantidad": 60,
+        "sku": 1
+    },
+    {
+        "nombre_producto": "GALLETON V2.0",
+        "precio": 6000000,
+        "cantidad": 400,
+        "sku": 2
+    }
+]
