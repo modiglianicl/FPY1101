@@ -23,6 +23,7 @@ with open('alumnos_detallado.csv','r',encoding='utf-8') as archivo:
                 'nota2' : i[6],
                 'nota3' : i[7]
             },
+            'promedio' : round((float(i[5]) + float(i[6]) + float(i[7]))/3,2),
             'asistencia' : i[8]
         }
         lista_diccionarios.append(datos_dict)
@@ -143,8 +144,8 @@ for i in anios_dataset:
         if len(asistencia_anios[i][j]) < 1:
             del asistencia_anios[i][j]
 
-# with open('diccionario_asistencia_anios.json','w',encoding='utf-8') as archivo:
-#     data_1 = json.dump(asistencia_anios,archivo,ensure_ascii=False)
+with open('diccionario_asistencia_anios.json','w',encoding='utf-8') as archivo:
+     data_1 = json.dump(asistencia_anios,archivo,ensure_ascii=False,indent=4)
 #### Fin Asignatura con mejor asistencia ##### 
     
 
