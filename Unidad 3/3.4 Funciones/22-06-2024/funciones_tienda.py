@@ -63,3 +63,8 @@ def eliminar_producto(sku_producto,lista_productos):
         print("Ese SKU no existe!")
     return None
 
+def nombre_nueva_funcion(holis):
+    # Esta funcion la traeremos desde la rama development al main con un pull request
+    print(f"{holis.upper()}")
+    return "AYO"
+
