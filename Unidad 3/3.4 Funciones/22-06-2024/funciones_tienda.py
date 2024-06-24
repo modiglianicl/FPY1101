@@ -67,3 +67,6 @@ def funcion_que_solo_se_ve_en_rama_test_lmao(holis):
     print(f"{holis.upper()}")
     return "AYO"
 
+def otra_funcion():
+    return "LMAO"
+
