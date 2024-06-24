@@ -63,3 +63,7 @@ def eliminar_producto(sku_producto,lista_productos):
         print("Ese SKU no existe!")
     return None
 
+def funcion_que_solo_se_ve_en_rama_test_lmao(holis):
+    print(f"{holis.upper()}")
+    return "AYO"
+
