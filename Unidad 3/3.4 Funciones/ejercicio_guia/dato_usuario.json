@@ -1,0 +1,12 @@
+{
+    "nombre": "Felipe",
+    "rut": "17.809.470-K",
+    "direccion": "Granada 420",
+    "servicios": {
+        "Agua": "Esval",
+        "Gas": "Abastible",
+        "Luz": "Chilquinta",
+        "Internet": "Entel",
+        "Telefono": "Entel"
+    }
+}
