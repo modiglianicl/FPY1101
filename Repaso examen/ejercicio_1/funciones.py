@@ -47,7 +47,6 @@ def analisis_creditos(datos_categorizados,agregacion):
             return max_credito
         except Exception as e:
             print({f"Error! mas info : {e} ; {e.with_traceback}"})
-    
     elif agregacion == "min":
         try:
             min_credito = 0
@@ -59,7 +58,6 @@ def analisis_creditos(datos_categorizados,agregacion):
             return min_credito
         except Exception as e:
             print({f"Error! mas info : {e} ; {e.with_traceback}"})
-    
     elif agregacion == "prom":
         try:
             lista_creditos = []
@@ -69,6 +67,9 @@ def analisis_creditos(datos_categorizados,agregacion):
             return promedio_creditos
         except Exception as e:
             print({f"Error! mas info : {e} ; {e.with_traceback}"})
+    else: # El menu se preocupa de que la gente elija solo agregaciones que existan , pero porsiacaso...
+        print(f"Agregación {agregacion} no soportada!")
+        return None
 
 def generar_reporte(datos_categorizados):
     columnas = ['nombre','credito','clasificacion_credito']
