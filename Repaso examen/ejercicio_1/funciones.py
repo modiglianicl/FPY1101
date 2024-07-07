@@ -1,5 +1,4 @@
 import csv
-import json
 import random
 
 def asignar_credito(alumnos):
