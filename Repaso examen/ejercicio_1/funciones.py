@@ -32,7 +32,7 @@ def clasificar_alumno(datos):
         print("Sus datos han sido categorizados!")
         print("*** Resumen ***")
         print(f"Categoria 'Bajo' : {alumnos_bajo}\nCategoria 'Medio' : {alumnos_medio}\nCategoria 'Alto' : {alumnos_alto}")
-    
+        print("*** Fin Resumen ***")
         return datos
     except Exception as e:
         print({f"Error! mas info : {e} ; {e.with_traceback}"})
