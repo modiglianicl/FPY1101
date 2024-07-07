@@ -10,3 +10,10 @@ Script donde se encuentran todas las funciones importadas al programa principal
 
 # menu.py
 Script donde se encuentra el menu y la logica para que el usuario obtenga la información disponible.
+
+# sueldos_1.csv
+csv con la información a manipular
+
+# *.json
+
+Archivos de ejemplo para evidenciar como se dumpean los datos requeridos en el ejercicio
