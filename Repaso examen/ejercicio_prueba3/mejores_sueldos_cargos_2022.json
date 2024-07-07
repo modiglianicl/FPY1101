@@ -1,0 +1,37 @@
+{
+    "Analista": {
+        "nombre": "Lucia",
+        "apellido": "Gonzalez",
+        "sueldo": "5214074"
+    },
+    "Contador": {
+        "nombre": "Luis",
+        "apellido": "Ramirez",
+        "sueldo": "5380903"
+    },
+    "Técnico": {
+        "nombre": "Pedro",
+        "apellido": "Martinez",
+        "sueldo": "5229786"
+    },
+    "Gerente": {
+        "nombre": "Jorge",
+        "apellido": "Rodriguez",
+        "sueldo": "3912202"
+    },
+    "Jefe de Proyectos": {
+        "nombre": "Ana",
+        "apellido": "Ramirez",
+        "sueldo": "5275022"
+    },
+    "Desarrollador": {
+        "nombre": "Maria",
+        "apellido": "Diaz",
+        "sueldo": "5156374"
+    },
+    "Ingeniero": {
+        "nombre": "Clara",
+        "apellido": "Martinez",
+        "sueldo": "5318792"
+    }
+}
