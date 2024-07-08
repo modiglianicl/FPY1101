@@ -1,0 +1,11 @@
+id_usuario,nombre_usuario,edad,total_likes,total_comments,numero_interacciones,es_top_usuario
+usuario1@example.com,usuario1,20,9,5,14,False
+usuario2@example.com,usuario2,22,12,8,20,True
+usuario3@example.com,usuario3,20,6,7,13,False
+usuario4@example.com,usuario4,27,4,7,11,False
+usuario5@example.com,usuario5,29,2,4,6,False
+usuario6@example.com,usuario6,15,6,10,16,False
+usuario7@example.com,usuario7,15,4,6,10,False
+usuario8@example.com,usuario8,8,4,4,8,False
+usuario9@example.com,usuario9,32,4,3,7,False
+usuario10@example.com,usuario10,33,10,10,20,True
