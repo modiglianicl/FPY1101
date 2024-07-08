@@ -64,7 +64,7 @@ def unir_datos(usuarios,interacciones,top=3):
 
     # Detectando si es top 3
     top_3_usuarios = []
-    for i in range(top-1):
+    for i in range(top):
         maximo = 0
         usuario = ""
         saltar_fila_uno = 0
