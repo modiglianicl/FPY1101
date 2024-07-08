@@ -32,7 +32,7 @@ def calcular_edad(fecha):
     edad = 2024 - anio_nacimiento
     return edad
 
-def unir_datos(usuarios,interacciones,top):
+def unir_datos(usuarios,interacciones,top=3):
     datos_full = usuarios[:]
     # Obtenemos la edad de cada usuario, ahora la tercera columna es su edad (como pide el ejercicio)
     saltar_fila = 0
