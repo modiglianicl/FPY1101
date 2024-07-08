@@ -76,7 +76,6 @@ def unir_datos(usuarios,interacciones,top=3):
                 if j[5] > maximo:
                     maximo = j[5]
                     usuario = j[0]
-        print(f"Iteracion {i} , usuario : {usuario}")
         top_3_usuarios.append(usuario)
 
     # Dandole True a los mejores 3 usuarios
